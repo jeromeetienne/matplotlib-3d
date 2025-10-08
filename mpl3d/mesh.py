@@ -64,7 +64,7 @@ class Mesh():
             T, Z = T[back], Z[back]
             if len(facecolors) == len(self.faces):
                 facecolors = facecolors[back]
-            if len(edgecolor) == len(self.faces):
+            if len(edgecolors) == len(self.faces):
                 edgecolors = edgecolors[back]
 
         # Separate 2d triangles from zbuffer
