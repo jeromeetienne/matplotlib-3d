@@ -1,3 +1,9 @@
+# Forked to ease install of the forked repo
+- Forked from https://github.com/rougier/matplotlib-3d
+- Merged all the PRs of https://github.com/rougier/matplotlib-3d/pulls/jeromeetienne
+  in main branch
+
+`pip install git+https://github.com/jeromeetienne/matplotlib-3d`
 
 # Experimental 3d axis for matplotlib
 
